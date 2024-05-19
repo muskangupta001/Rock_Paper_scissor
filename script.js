@@ -53,7 +53,7 @@ optionImages.forEach((image, index) => {
         PS: "You Lost 😞",
         SS: "Its a Draw",
         SR: "You Lost 😞",
-        SP: "Hurry😀!! You Won",
+        SP: "Hurray😀!! You Won",
       };
 
       // Look up the outcome value based on user and CPU options
