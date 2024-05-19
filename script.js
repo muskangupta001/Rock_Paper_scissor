@@ -47,9 +47,9 @@ optionImages.forEach((image, index) => {
       let outcomes = {
         RR: "Its a Draw",
         RP: "You Lost 😞",
-        RS: "Hurry😀!! You Won",
+        RS: "Hurray😀!! You Won",
         PP: "Its a Draw",
-        PR: "Hurry😀!! You Won",
+        PR: "Hurray😀!! You Won",
         PS: "You Lost 😞",
         SS: "Its a Draw",
         SR: "You Lost 😞",
